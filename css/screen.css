@@ -311,7 +311,7 @@ pre,
 	font-size: 12px;
 	padding: 5px 10px;
 	background: #E9E9E9 !important;
-	font-weight: bold;
+  /*	font-weight: bold; */
 	overflow: auto;
 	border: none !important;
 }

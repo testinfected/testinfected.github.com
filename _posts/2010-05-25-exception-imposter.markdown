@@ -8,7 +8,7 @@ I have been frustrated many times by some of Java's checked exceptions. I'm sure
 
 Let me share a useful exception idiom that I've been using for a long time and on lots of projects, which I call the `ExceptionImposter`.
 
-We all know the Java standard libraries use checked exception to signal problems that can only occur at runtime either if we have screwed up or if something really bad has happened - something we cannot do anything about anyway. Personally, since I use Java reflection capabilities a lot, I have to deal with the `InstantiationException` and the `IllegalAccessException` too often for my taste.
+We all know the Java standard libraries use checked exceptions to signal problems that can only occur at runtime either if we have screwed up or if something really bad has happened - something we cannot do anything about anyway. Personally, since I use Java reflection capabilities a lot, I have to deal with the `InstantiationException` and the `IllegalAccessException` too often for my taste.
 
 For example, whenever I want to dynamically instanciate a class, even if I know the code should never fail, the underlying Java code throws a checked exception and I end up with code that looks like this:
 
