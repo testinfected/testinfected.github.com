@@ -150,7 +150,8 @@ li {
 	font-size: 18px;
 	font-weight: bold;
 	letter-spacing: -1px;
-	width: 300px;
+	width: 250px;
+	line-height: 24px;
 }
 #logo a {
 	color: #545454;
@@ -162,14 +163,15 @@ li {
 #nav {
 	float: right;
 	text-align: right;
-	width: 330px;
+	width: 450px;
 	margin: 0;
 }
 #nav li {
 	list-style-type: none;
 	display: block;
-	padding-left: 20px;
+	padding-left: 10px;
 	float: right;
+	line-height: 16px;
 }
 #nav li a {
 	display: block;
@@ -187,6 +189,13 @@ li {
 	border-radius: 3px;
 	background: #3061BE;
 }
+
+#nav li a img {
+	vertical-align:middle;
+	border:0;
+	padding-left: 4px;
+}
+
 #footer {
 	border-top: 1px dotted #BEBEBE;
 	padding: 1em 0 0;
@@ -266,7 +275,11 @@ li {
 }
 img.callout {
 	float: left;
-	margin: 35px 25px 45px 0;
+	margin: 0px 25px 0px 0;
+	padding: 2px;
+}
+img.avatar {
+	padding: 0px;
 	border: 2px solid #000;
 }
 .clearfix:after,.container:after {
