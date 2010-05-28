@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Product vision and Strategic Design
-categories: -Scrum
-            -DDD
+categories: [Scrum, DDD]
 ---
 
 When I coach Scrum teams, I usually spend a significant amount of time working with the Product Owner to teach her how to create an effective **product vision**, one that will act as a guiding light for the Scrum team and stakeholders. 
