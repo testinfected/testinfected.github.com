@@ -132,6 +132,12 @@ li {
 	list-style-type: disc;
 }
 
+blockquote,q {
+  font-style: italic;
+  margin: 1em 40px;
+}
+
+
 /* - Structure
 -------------------------------------------------------*/
 #header {
