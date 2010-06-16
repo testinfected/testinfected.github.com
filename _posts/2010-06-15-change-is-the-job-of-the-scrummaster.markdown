@@ -14,9 +14,9 @@ Block also states that for real transformation to occur, it is not more or bette
 
 Scrum is all about changing the existing system. This is why the ScrumMaster primary responsibility is to ensure the Scrum process is followed. He or she uses Scrum as a tool to ask powerful questions to spark off change.
 
-The ScrumMaster job is to change the conversation. The ScrumMaster is initiator, facilitator and leader of real discussions. This is a leadership role about creating commitment and accountability, which are the building block of self-organization. 
+The ScrumMaster job is to change the conversation. The ScrumMaster is initiator, facilitator and leader of real discussions. This is a leadership role about creating commitment and accountability, which are the building blocks of self-organization. 
 
-> To make a to make a difference we must start by naming the way things are, use powerful questions as a tool, and listen, rather than advocate or defend.
+> To make a difference we must start by naming the way things are, use powerful questions as a tool, and listen, rather than advocate or defend.
 
 ScrumMasters, take the time to master the art of orchestrating conversations, for this is what your job is about.
 
