@@ -6,9 +6,9 @@ title: Blog
 {% for post in site.posts %}
 
 	{% if forloop.index == 1 %}
-		{% assign class = 'container post' %}
+		{% assign class = 'content post' %}
 	{% else %}
-	   {% assign class = 'container post separator' %}
+	   {% assign class = 'content post separator' %}
 	{% endif %}
 
 	<div class="{{ class }}">
@@ -18,7 +18,7 @@ title: Blog
 				<a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a>
 			</p>
 		</div>
-		<div class="post-content span-15 last">
+		<div class="post-content span-14 last">
 			{{ post.content }}
 		</div>
 	</div>
