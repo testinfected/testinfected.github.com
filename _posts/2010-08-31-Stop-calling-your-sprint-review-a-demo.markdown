@@ -5,6 +5,7 @@ category: Scrum
 ---
 
 There's a misunderstanding I've noticed in quite a few Scrum projects. Teams use Scrum and at the end of their sprint they do what they call a "sprint demo". It works out like this:
+
 * They demonstrate their increment of the product to the product owner
 * Product owner seats passively
 * Product owner accepts or rejects the increment
