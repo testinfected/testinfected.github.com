@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop calling your sprint review a demo
+title: Start doing sprint reviews, not demos
 category: Scrum
 ---
 
