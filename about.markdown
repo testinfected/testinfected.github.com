@@ -9,6 +9,4 @@ title: About
 
 I’m a software developer in Montreal at [Pyxis Technologies](http://www.pyxis-tech.com). I work to shape a world of software development where quality of work joins quality of life in creating products that matter.
 
-<img src="/images/cst.jpg" class="callout" />
-
-When I'm not programming, I'm usually teaching or coaching on Scrum and iterative and incremental development. I've started using XP over 10 years ago and Scrum in 2002. I'm also a Certified Scrum Trainer since 2007.
+When I'm not programming, I'm usually teaching or coaching on Scrum and iterative and incremental development. I've started using XP over 10 years ago and Scrum in 2002. I'm also a Scrum Trainer since 2007.
