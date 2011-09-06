@@ -1,0 +1,11 @@
+---
+layout: post
+title: Les programmes de certification Scrum, comment ça marche ?
+category: [Scrum]
+---
+
+Au début de l'été, [Eric](http://ericminio.wordpress.com) et moi avons eu le plaisir d'être les invités du [Visual Studio Talk Show](http://www.visualstudiotalkshow.com), un podcast en français sur l'architecture logiciel animé par Mario Cardinal et Guy Barette. [Cet enregistrement](http://www.visualstudiotalkshow.com/Archives/136-17juin2011-EricMignot.html) fut l'occasion de partager ma vision des programmes de certification offerts par l'Alliance Scrum et Scrum.org et de parler plus spécifiquement du programme de formation et certification Professional Scrum Developer pour Java.
+
+J'ai été pendant 4 ans un *Certified Scrum Trainer* de l'Alliance Scrum. Pendant ces 4 ans, j'ai travaillé avec Ken Schwaber et enseigné Scrum à des centaines de personnes. L'année dernière, j'ai poursuivi l'aventure Scrum avec Ken en joignant Scrum.org après avoir été le premier formateur certifié par Ken pour donner le cours [*Professional Scrum Master*](http://www.scrum.org/psmoverview/) (qui s'appelait encore à l'époque *Scrum In Depth*). Je partage dans ce podcast les différences de mission, de focus et d'approche de la certification que j'ai constatées entre les deux organisations. 
+
+La mission de Scrum.org est d'améliorer la profession du développement logiciel, afin que les clients adorent travailler avec nous et que nous soyons fiers de notre travail. En ligne avec cette mission, nous proposons un programme de formation et de certification pour les équipes de développement. J'ai développé avec l'aide de [Marc-André Thibodeau](http://twitter.com/mathibodeau), un développeur Java comme on en rencontre peu, ce programme [Professional Scrum Developer Java](http://pyxis-tech.com/fr/notre-offre/formation-agile/professional-scrum-developer-java) en utilisant des outils et technologies libres. Offert en version 3 jours ou 5 jours, ce programme de formation offre une expérience intensive unique à une équipe qui veut apprendre à livrer sprint après sprint du logiciel de qualité qui enchantera ses clients. Dans le podcat, Eric et moi partageons les éléments distinctifs du programme Professional Scrum Developer Java et l'emphase particulière qui est mise sur l'automatisation des tests à tous les niveaux. 
