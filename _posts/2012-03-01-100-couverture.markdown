@@ -1,0 +1,15 @@
+---
+layout: post
+title: 100% de couverture de code par les tests
+category: code
+---
+
+Voici les slides de la session que j'ai donné à [Agile Tour Montréal 2011](http://at2011.agiletour.org/fr/montreal.html) et à [Confoo 2012](http://www.confoo.ca/). 
+
+L'idée maîtresse est de considérer l'objectif de 100% comme un objectif asymptotique et un état d'esprit. Cet objectif amène l'équipe à continuellement se dépasser et à améliorer entre autres, ses pratiques d'ingénierie, ses outils, son infrastructure.
+
+Le résumé de la session est le suivant :
+
+> S’adonner au développement itératif et incrémental sans automatiser les tests, c’est s’engager sur la voie du Scrum Flasque (Flaccid Scrum pour reprendre l’expression de Martin Fowler). C’est voir petit à petit la vélocité de l’équipe diminuer, la dette technique s’accumuler, la livraison de valeur d’affaires cesser. La base de code devient progressivement intravaillable. Bref, la qualité se détériore et les coûts de maintenance de l’application explosent. L’automatisation des tests à tous les niveaux est essentielle pour livrer itération après itération du logiciel de qualité qui enchantera vos clients. Plus facile à dire qu’à faire, à priori. Et quelle couverture de code devrait-on viser ? Seulement le chemin nominal ? 70% ? ... ou bien 100% ! Certains diront déjà, 100% c’est irréaliste ! Au contraire, cette session vous présentera comment viser ... et atteindre une couverture de test de 100% en tirant profit des différents types de tests et en construisant vos propres outils de tests.
+
+<iframe style="border:none;width:500px;height:300px;" src="http://icant.co.uk/slidesharehtml/embed.php?url=http://www.slideshare.net/vtence/100-couverture"></iframe>
