@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You need a ScrumMaster to change the old style
-category: [Scrum]
+category: Scrum
 ---
 
 There seem to be a confusion between the role of the ScrumMaster and one of a team facilitator. Jason Little recently [wrote](http://www.agilecoach.ca/2010/09/20/do-you-need-a-scrum-master-or-a-coach/) that you might need a coach, not a ScrumMaster:

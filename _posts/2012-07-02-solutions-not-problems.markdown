@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Focus on solutions, not problems
-category: [Scrum, Core]
+categories: [Scrum, Core]
 ---
 
 One of the key ingredients to becoming a great team is learning to focus on solutions, not problems. Unfortunately, this is really hard and requires practice. As humans, our natural response is to do just the opposite. In this post, I will explore why this is so and share things you can do to help.

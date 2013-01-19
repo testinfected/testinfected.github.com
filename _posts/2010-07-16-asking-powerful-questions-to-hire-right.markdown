@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Asking powerful questions to hire right
-category: code
 ---
 
 Many organizations spend a significant amount of time defining the experience, education, skills and other factors required for open positions. Most of the time, though, their hiring process fails to make sure they hire right. If you're looking for a different way, you might be interested to know how it works at [Pyxis](http://www.pyxis-tech.com).

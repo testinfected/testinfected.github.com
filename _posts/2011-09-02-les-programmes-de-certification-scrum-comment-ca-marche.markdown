@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les programmes de certification Scrum, comment ça marche ?
-category: [Scrum]
+category: Scrum
 ---
 
 Au début de l'été, [Eric](http://ericminio.wordpress.com) et moi avons eu le plaisir d'être les invités du [Visual Studio Talk Show](http://www.visualstudiotalkshow.com), un podcast en français sur l'architecture logicielle animé par Mario Cardinal et Guy Barette. [Cet enregistrement](http://www.visualstudiotalkshow.com/Archives/136-17juin2011-EricMignot.html) fut l'occasion de partager ma vision des programmes de certification offerts par l'Alliance Scrum et Scrum.org et de parler plus spécifiquement du programme de formation et certification Professional Scrum Developer pour Java.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Imposterizing checked exceptions
-category: code
+category: Code
 ---
 
 I have been frustrated many times by some of Java's checked exceptions. I'm sure you can recall some of your own experiences where you wished a `CheckedException` was a `RuntimeException` instead.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You need an Agile Product Manager, not an Agile Project Manager
-category: [Scrum]
+category: Scrum
 ---
 
 When an organization starts using Scrum, it runs into tough questions. One question that is particularly challenging is:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 100% de couverture de code par les tests
-category: code
+category: Code
 ---
 
 Voici les slides de la session que j'ai donné à [Agile Tour Montréal 2011](http://at2011.agiletour.org/fr/montreal.html) et à [Confoo 2012](http://www.confoo.ca/). 

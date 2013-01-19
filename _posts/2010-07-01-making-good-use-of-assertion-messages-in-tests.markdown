@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making good use of assertion messages in tests
-category: code
+category: Code
 ---
 
 Have you ever struggle with coming up with useful assertion messages in your tests? Well, I have; until not so long ago.

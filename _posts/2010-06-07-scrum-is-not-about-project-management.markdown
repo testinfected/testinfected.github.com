@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scrum is not about project management
-category: [Scrum]
+category: Scrum
 ---
 
 I often hear people talk about Scrum as a project management framework. I don't like that idea. Scrum is for managing complexity to provoke change. I don't like the notion of Agile Project Management either. Nor do I believe in the Agile Project Manager.

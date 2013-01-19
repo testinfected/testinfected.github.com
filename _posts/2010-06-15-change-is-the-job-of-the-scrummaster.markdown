@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Change is the job of the ScrumMaster
-category: [Scrum]
+category: Scrum
 ---
 
 I recently finished reading _Community, the Structure of Belonging_, by Peter Block. While reading the book, I could not help but draw parallels with what I teach about Scrum.

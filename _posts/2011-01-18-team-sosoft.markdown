@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Birth of Team Sosoft
-category: [Sosoft]
 ---
 
 Last november, I experienced the first [Codapalooza](http://www.codapalooza.com "Codapalooza One") as part of [team Sosoft](http://codapalooza.com/teams/pyxis-sosoft/ "Sosoft at Codapalooza One"). This was the first event of its kind in Montreal. And it was amazing!  Xavier already [shared our experience as a team](http://xtothoughts.blogspot.com/2010/11/codapalooza-one-fun-with-purpose.html).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to change things when change is hard?
-category: [Scrum]
+category: Scrum
 ---
 
 That's the question the Heath brothers address in [Switch](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752). I had great expectations before reading the latest book from the authors of best-seller [Made to Stick](http://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287), and man, I was not disappointed. *Switch* delivers some very solid advice on the subject of change. It's simple and powerful. It made me wonder why no-one had explained change to me that way before.
