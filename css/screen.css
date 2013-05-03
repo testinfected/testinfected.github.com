@@ -249,6 +249,7 @@ blockquote,q {
 .post .illustration {
 	padding: 20px;
 	text-align: center;
+	font-size: 0.8em;
 }
 
 .post-meta p {

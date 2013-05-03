@@ -4,13 +4,18 @@ title: Simple Web Development In Java
 category: Java
 ---
   
-<div class="illustration">
-	<img alt="Simplicity is the key to brilliance" title="http://thepresentationdesigner.co.uk/blog/portfolio-item/bruce-lee-slide-2/" src="/images/Bruce-Lee-Simplicity-is-the-key-2-brilliance.jpg"/>
-</div>
-  
 *Teams often are slowed down by the increasing size and complexity of the frameworks they use and the code they write. But do they really need frameworks?* 
 
-*The reason we often choose frameworks is that they feel easy to start with and seem to hide the complexity involved in solving complex problems. Often though they give headaches and are a pain to get rid of. If the solution to your problem does not require a framework, do not use one. Do It Yourself Simply (DIYS).*
+*The reason we often choose frameworks is that they feel easy to start with and seem to hide the complexity involved in solving complex problems. Often though they give headaches and are a pain to get rid of.*
+
+*If the solution to your problem does not require a framework, do not use one. Do It Yourself Simply (DIYS).*
+
+---
+
+<div class="illustration">
+	<img alt="Simplicity is the key to brilliance" title="http://thepresentationdesigner.co.uk/blog/portfolio-item/bruce-lee-slide-2/" src="/images/simplicity-is-the-key-2-brilliance.jpg"/>
+	<p>http://thepresentationdesigner.co.uk/blog/portfolio-item/bruce-lee-slide-2/</p>
+</div>
 
 Reading the following situations might evoke a feeling of déjà vu.
 
